@@ -1,4 +1,4 @@
-# 🎬 Movie Recommendation System
+# Movie Recommendation System
 
 Production-level ML movie recommender — Collaborative Filtering, Content-Based, Hybrid.
 
